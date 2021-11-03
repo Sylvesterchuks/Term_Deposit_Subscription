@@ -9,6 +9,7 @@ Direct marketing campaigns are a form of promotion intended to allow companies t
 * The purpose of direct marketing is to reach and appeal directly to individual consumers and to use information about them to offer products, services and offers that are most relevant to them and their needs. The effectiveness of direct marketing activity depends on marketers using databases to capture the information of target customers and the use of this information to extend ever-more-personalized offers and information to consumers. 
 
 We aim to use the dataset download from UCI Machine Learning Repository to analyze, build models and predict the probability of a customer subscribing for term deposit or not.
+https://archive.ics.uci.edu/ml/machine-learning-databases/00222/bank-additional.zip
 ### Data Set Information:
 The data is related with direct marketing campaigns of a Portuguese banking institution. The marketing campaigns were based on phone calls. Often, more than one contact to the same client was required, in order to access if the product (bank term deposit) would be ('yes') or not ('no') subscribed.
 
